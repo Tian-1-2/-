@@ -2,4 +2,4 @@
 
 小球碰撞会变色，自己控制的小球可以把其他小球吃掉
 
-![image-20220923151141393](C:\Users\tt\AppData\Roaming\Typora\typora-user-images\image-20220923151141393.png)
+![image-20240815091656510](https://gitee.com/typhome/typora-image-library/raw/master/img/image-20240815091656510.png)
