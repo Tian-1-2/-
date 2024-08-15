@@ -1,4 +1,6 @@
-**[项目介绍](https://juejin.cn/spost/7402932447213076489)**
+![Snipaste_2024-08-15_15-35-11](https://gitee.com/typhome/typora-image-library/raw/master/img/Snipaste_2024-08-15_15-35-11.png)
+
+**[项目介绍](https://juejin.cn/post/7402932447213174793)**
 
 **玩法**
 
