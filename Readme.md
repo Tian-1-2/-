@@ -10,3 +10,8 @@ ctrl键加速
 
 吃完既结束
 
+**注意**
+
+classmain.js文件中为es6class写法
+
+main.js文件中为普通写法
